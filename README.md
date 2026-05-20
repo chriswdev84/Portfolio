@@ -29,7 +29,7 @@ A 2D climbing platformer built in Unity where the player controls a slime and ga
 
 - **Tech Stack**: Unity, C#
 - **Repository**: https://github.com/chriswdev84/slime-climb
-- **Details**: See `SimeClimbREADME.md`
+- **Details**: See [SimeClimbREADME.md](SimeClimbREADME.md)
 
 ---
 
@@ -38,7 +38,7 @@ A logic puzzle web application built with Vue 3 and Vite.
 
 - **Tech Stack**: Vue.js 3, Vite, JavaScript
 - **Repository**: https://github.com/chriswdev84/self-quiz
-- **Details**: See `SelfQuizREADME.md`
+- **Details**: See [SelfQuizREADME.md](SelfQuizREADME.md)
 
 ---
 
@@ -47,7 +47,7 @@ A web application for searching, comparing, and visualizing NBA player and team 
 
 - **Tech Stack**: Python (Flask), Vue.js 3, SQLite
 - **Repository**: https://github.com/chriswdev84/nba-stats-app
-- **Details**: See `NBAStatsREADME.md`
+- **Details**: See [NBAStatsREADME.md](NBAStatsREADME.md)
 
 ---
 
@@ -55,7 +55,7 @@ A web application for searching, comparing, and visualizing NBA player and team 
 A simple FTP-style client/server program in C demonstrating TCP socket programming, process management, and file transfers.
 
 - **Tech Stack**: C, TCP sockets
-- **Details**: See `ftpREADME.md`
+- **Details**: See [ftpREADME.md](ftpREADME.md)
 
 ---
 
@@ -84,6 +84,7 @@ A simple FTP-style client/server program in C demonstrating TCP socket programmi
 
 ---
 
-## Contact
+## Contact & Resume
 
 - **Email**: ChrisWDev84@gmail.com
+- **Resume**: See [resume.md](resume.md)
