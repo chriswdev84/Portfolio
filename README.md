@@ -55,7 +55,7 @@ A web application for searching, comparing, and visualizing NBA player and team 
 A simple FTP-style client/server program in C demonstrating TCP socket programming, process management, and file transfers.
 
 - **Tech Stack**: C, TCP sockets
-- **Details**: See `ftpREADME.md`
+- **Details**: See [ftpREADME.md](ftpREADME.md)
 
 ---
 
