@@ -29,7 +29,7 @@ A 2D climbing platformer built in Unity where the player controls a slime and ga
 
 - **Tech Stack**: Unity, C#
 - **Repository**: https://github.com/chriswdev84/slime-climb
-- **Details**: See `SimeClimbREADME.md`
+- **Details**: See [SimeClimbREADME.md](SimeClimbREADME.md)
 
 ---
 
@@ -38,7 +38,7 @@ A logic puzzle web application built with Vue 3 and Vite.
 
 - **Tech Stack**: Vue.js 3, Vite, JavaScript
 - **Repository**: https://github.com/chriswdev84/self-quiz
-- **Details**: See `SelfQuizREADME.md`
+- **Details**: See [SelfQuizREADME.md](SelfQuizREADME.md)
 
 ---
 
@@ -47,7 +47,7 @@ A web application for searching, comparing, and visualizing NBA player and team 
 
 - **Tech Stack**: Python (Flask), Vue.js 3, SQLite
 - **Repository**: https://github.com/chriswdev84/nba-stats-app
-- **Details**: See `NBAStatsREADME.md`
+- **Details**: See [NBAStatsREADME.md](NBAStatsREADME.md)
 
 ---
 
